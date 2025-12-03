@@ -1,57 +1,74 @@
-# 🏅 Rizky Maulana - Profil Profesional
+# 🌐 Profil & Kredensial Jaringan (Networking) | Rizky Maulana
 
-Selamat datang di profil GitHub saya! Saya fokus pada pengembangan jaringan (Networking) dan implementasi solusi infrastruktur dasar.
+Selamat datang di *repository* yang memuat kredensial profesional dan bukti kompetensi saya di bidang dasar-dasar jaringan komputer. Saya berfokus pada pembangunan fondasi infrastruktur jaringan yang aman dan terstandardisasi.
 
 ---
 
-## 🎓 Pencapaian & Sertifikasi
+## 🏅 Sertifikasi Teknis
 
-Saya dengan bangga menyertakan Sertifikat Kelulusan saya dari **Cisco Networking Academy**.
+### Cisco Networking Academy: Networking Basics
 
-### Cisco Networking Basics
+Sertifikasi ini memvalidasi pemahaman saya tentang prinsip-prinsip fundamental jaringan yang sangat penting untuk peran teknisi jaringan tingkat awal dan administrator sistem.
 
-| Detail | Deskripsi |
+| Detail Kredensial | Informasi |
 | :--- | :--- |
-| **Nama Kursus** | [cite_start]Networking Basics [cite: 17] |
-| **Penyedia** | [cite_start]CISCO Academy [cite: 2] |
-| **Status** | [cite_start]Berhasil memperoleh kredensial tingkat mahasiswa (*student level credential*) [cite: 5] |
-| **Tanggal Terbit** | [cite_start]03 Desember 2025 [cite: 19] |
-
-### Kemampuan yang Dikuasai
-
-Setelah menyelesaikan kursus ini, saya mampu dengan mahir:
-
-* [cite_start]Menjelaskan konsep penting dalam komunikasi jaringan, jenis jaringan, komponen, dan koneksi[cite: 7].
-* [cite_start]Menjelaskan pentingnya standar dan protokol dalam komunikasi jaringan[cite: 8].
-* [cite_start]Menjelaskan bagaimana komunikasi terjadi pada jaringan Ethernet[cite: 9].
-* [cite_start]Menjelaskan fitur alamat IP dan bagaimana alamat IPv4 digunakan dalam komunikasi jaringan[cite: 10].
-* [cite_start]Menjelaskan fitur-fitur pengalamatan IPv6[cite: 11].
-* [cite_start]Menggunakan berbagai *tools* untuk menguji dan memecahkan masalah konektivitas jaringan[cite: 13].
-* [cite_start]Mengkonfigurasi *wireless router* terintegrasi dan *wireless client* untuk terhubung dengan aman ke internet[cite: 14].
+| **Penerbit** | CISCO Academy |
+| **Kursus** | Networking Basics |
+| **Status** | Student Level Credential (Terselesaikan) |
+| **Tanggal Terbit** | 03 Desember 2025 |
 
 ---
 
-## 🔗 Bukti Verifikasi
+## 🛠️ Core Competencies (Kompetensi Inti)
 
-Anda dapat memverifikasi keaslian sertifikat ini melalui *scan* kode yang terdapat pada sertifikat atau dengan merujuk pada kredensial resmi.
+Kemampuan yang saya kuasai dan teruji melalui penyelesaian kursus ini:
 
+### I. Konsep dan Protokol Jaringan
 
-[Sertifikat-Cisco-Networkin-Basics-RizkyMaulana.pdf](https://github.com/user-attachments/files/23913323/Sertifikat-Cisco-Networkin-Basics-RizkyMaulana.pdf)
+* [cite_start]**Pemahaman Fundamental:** Mampu menjelaskan konsep-konsep kunci dalam komunikasi jaringan, termasuk jenis jaringan (LAN, WAN), komponen perangkat keras, dan standar koneksi[cite: 7, 8].
+* [cite_start]**Standar Industri:** Menguasai pentingnya standar dan protokol (seperti TCP/IP) dalam memastikan interoperabilitas komunikasi jaringan[cite: 8].
+* [cite_start]**Ethernet & Data Link:** Memahami mekanisme dan proses komunikasi yang terjadi pada jaringan berbasis Ethernet[cite: 9].
+
+### II. Pengalamatan dan Perutean (Addressing & Routing)
+
+* [cite_start]**Implementasi IPv4:** Mampu menjelaskan fitur dan aplikasi praktis alamat IPv4 dalam komunikasi jaringan[cite: 10].
+* [cite_start]**Transisi IPv6:** Memahami fitur-fitur penting dalam pengalamatan IPv6 sebagai fondasi untuk jaringan masa depan[cite: 11].
+* [cite_start]**Fungsi Router:** Memahami peran vital *router* dalam menghubungkan dan mengarahkan lalu lintas data antar jaringan yang berbeda[cite: 12].
+
+### III. Operasi dan Keamanan Nirkabel
+
+* [cite_start]**Troubleshooting:** Mahir menggunakan berbagai alat bantu diagnostik (*tools*) untuk menguji dan memecahkan masalah (*troubleshoot*) konektivitas jaringan secara efektif[cite: 13].
+* [cite_start]**Konfigurasi Wireless:** Mampu mengkonfigurasi *integrated wireless router* dan *wireless client* untuk memastikan koneksi internet yang aman dan terjamin[cite: 14].
+
+---
+
+## 💻 Contoh Penerapan (Applied Networking Projects)
+
+Proyek-proyek di bawah ini merefleksikan aplikasi praktis dari kompetensi *Networking Basics* yang saya kuasai. Anda dapat menemukan kode konfigurasi, *file* simulasi (.pkt), atau dokumentasi studi kasus terkait di *repository* ini (jika tersedia).
+
+| Proyek | Deskripsi Fokus & Deliverables |
+| :--- | :--- |
+| **Simulasi & Konfigurasi Jaringan SOHO** | Menerapkan konfigurasi jaringan untuk lingkungan kantor kecil, berfokus pada **segregasi VLAN (opsional)** dan **skema pengalamatan IP terstruktur**. *Deliverables:* Topologi jaringan dan *script* konfigurasi dasar. |
+| **Pengujian Konektivitas dan Analisis Jaringan** | [cite_start]Melakukan serangkaian tes konektivitas menggunakan *tools* seperti `ping`, `tracert`, dan utilitas diagnostik lainnya untuk **mengidentifikasi dan menyelesaikan isu latensi** dan *error* pada *hop* jaringan[cite: 13]. |
+| **Implementasi Keamanan Jaringan Nirkabel** | [cite_start]Mendesain dan mengimplementasikan **koneksi *wireless* yang aman** menggunakan standar enkripsi modern (WPA2/WPA3) pada *router* terintegrasi, sesuai dengan praktik terbaik industri[cite: 14]. |
+
+---
+
+## 🔗 Verifikasi Kredensial
+
+Untuk memverifikasi keaslian sertifikat ini, Anda dapat:
+
+* **Tinjau Dokumen:** [Klik di sini untuk melihat sertifikat resmi (PDF)](NetworkingBasicsUpdate20251203-31-qi739t.pdf)
+* **Kode Verifikasi:** [Masukkan tautan atau instruksi verifikasi yang ada pada sertifikat Anda].
+
+***![Sertifikat Cisco Networking Basics Rizky Maulana]( ![Sertifikat-Cisco-Networkin-Basics-RizkyMaulana (1)_page-0001](https://github.com/user-attachments/assets/d849ca04-31f5-4569-8bf8-fc5e82bb4517)
+)***
 
 
 ---
 
-## 🛠️ Proyek Terkait
+## 🤝 Kontak
 
-[Bagian ini opsional. Anda bisa mencantumkan proyek yang relevan dengan keahlian jaringan Anda di sini.]
-
-### Proyek 1: [Nama Proyek Anda]
-* **Deskripsi:** [Penjelasan singkat tentang proyek. Contoh: Simulasi jaringan LAN menggunakan Cisco Packet Tracer.]
-* **Teknologi:** [Daftar teknologi yang digunakan.]
-
----
-
-## 📧 Hubungi Saya
-
-* **Email:** [Alamat Email Anda]
-* **LinkedIn:** https://www.linkedin.com/company/anda-us
+* **LinkedIn:** https://www.linkedin.com/help/linkedin/answer/a564067/profil-linkedin-anda?lang=in
+* **Email:** [Alamat Email Profesional Anda]
+* **Proyek Lain:** https://akupintar.id/info-pintar/-/blogs/contoh-portofolio-terbaik-pelajari-cara-membuatnya
