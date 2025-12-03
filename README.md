@@ -58,8 +58,9 @@ Proyek-proyek di bawah ini merefleksikan aplikasi praktis dari kompetensi *Netwo
 
 Untuk memverifikasi keaslian sertifikat ini, Anda dapat:
 
-* **Tinjau Dokumen:** [Klik di sini untuk melihat sertifikat resmi (PDF)](NetworkingBasicsUpdate20251203-31-qi739t.pdf)
-* **Kode Verifikasi:** [Masukkan tautan atau instruksi verifikasi yang ada pada sertifikat Anda].
+* **Tinjau Dokumen:** [Klik di sini untuk melihat sertifikat resmi (PDF)]([Sertifikat-Cisco-Networkin-Basics-RizkyMaulana (1).pdf](https://github.com/user-attachments/files/23913493/Sertifikat-Cisco-Networkin-Basics-RizkyMaulana.1.pdf)
+)
+* **Kode Verifikasi:** [https://www.netacad.com/profile?&tab=badges].
 
 ***![Sertifikat Cisco Networking Basics Rizky Maulana]( ![Sertifikat-Cisco-Networkin-Basics-RizkyMaulana (1)_page-0001](https://github.com/user-attachments/assets/d849ca04-31f5-4569-8bf8-fc5e82bb4517)
 )***
